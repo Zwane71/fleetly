@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "707526472321",
+    "project_id": "fleetly-auth-backend",
+    "storage_bucket": "fleetly-auth-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707526472321:android:9a1bd6d36b1e27b8c5d380",
+        "android_client_info": {
+          "package_name": "com.makzwane71.fleetly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707526472321-bgshrih2cp0oo73okiva8smi8mttn2fa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.makzwane71.fleetly",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "707526472321-ccu9po6qs28also4vmgd7m6o82pubip1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5XbvRQIJ-yFWlvHkic03UrGXdjRguA8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707526472321-ccu9po6qs28also4vmgd7m6o82pubip1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "707526472321-a8cdh15ji10fqh7e79mdb16vss5e1n8h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.makzwane71.fleetly"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
